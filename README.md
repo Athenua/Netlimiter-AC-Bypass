@@ -1,4 +1,4 @@
-## Netlimiter (5.2.6.0) DLL with some renamed strings to allow u to use it on D2!
+## Netlimiter (5.2.8.0) DLL with some renamed strings to allow u to use it on D2!
 
 # How to use :3
 - Download [Netlimiter 5.2.8.0](https://download.netlimiter.com/nl/netlimiter-5.2.8.0.exe)
