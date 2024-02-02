@@ -12,7 +12,7 @@
 >
 > You can open it ingame, or whenever you want btw
 
-
+> PSA, searching the word Netlimiter, or having a tab open with the word in it flags D2. Close d2 while installing, and pin the askua.exe to ur taskbar after u open it or something 
 
 
 enjoy cuties <3
