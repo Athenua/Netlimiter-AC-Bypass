@@ -6,7 +6,7 @@
 - Extract the [files](https://img.grr.ovh/rina/y7F) to `C:\Program Files\Locktime Software\NetLimiter`
 - Open askua.exe or whatever you renamed ur exe too and pin it to start/taskbar or make a shortcut for whatever and ur good to go <3
 
-> You can just replace the DLL and rename the default execuable if you'd like, but to be safe for dumb changes just use mine, it has some changes aswell it's not just renamed \_(ツ)_/
+> You can just replace the DLL and rename the default execuable if you'd like, but to be safe for dumb changes just use mine, it has some extra string changes, to hopefully stop detections it's not just renamed \_(ツ)_/
 > 
 > Everything done is very simple, it's nothing crazy
 >
