@@ -1,4 +1,4 @@
-## Netlimiter (5.3.6.0) DLL with some renamed strings to allow u to use it on D2!
+## Netlimiter (5.3.6.0) DLL with some renamed strings to allow u to use it on Battleye/EAC Games
 
 # How to use :3
 - Close D2 or any game that currently blocks Netlimiter
